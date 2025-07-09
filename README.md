@@ -41,13 +41,17 @@ Copy
 Edit
 npm install
 npm start
+
 ## 🧩 Customization
+
 Add your own music by replacing files in the music/ folder.
 
 Customize the theme in styles.css or via CSS variables if used.
 
 ## 🙌 Contributing
+
 Contributions are welcome! Please fork the repo and submit a pull request.
 
 ## 📄 License
+
 This project is licensed under the MIT License.
