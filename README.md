@@ -40,7 +40,7 @@ bash
 Copy
 Edit
 npm install
-npm start
+npm start```
 
 ## 🧩 Customization
 
