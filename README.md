@@ -36,9 +36,6 @@ cd music-player-web-app
 open index.html  # or run with Live Server
 If you're using a frontend framework:
 
-bash
-Copy
-Edit
 npm install
 npm start
 ```
